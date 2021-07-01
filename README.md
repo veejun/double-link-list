@@ -19,6 +19,6 @@ Please treat “ “ as a valid input.
 2) Try to optimize the process. 
 
 For example:  
-input: EXPELLIA 
+input: EXPELLIA  
 output: +++++.>---.--------.<.>----..---.>+.<+++++++++.-----.++++++++.--.  
  
